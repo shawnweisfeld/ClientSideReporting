@@ -11,12 +11,14 @@ Example 1: open a screen with the full report viewer control
 Example 2: generate report with custom UI
 
 ClientSideReportingWeb - ASP.NET Webforms app
-Example 1: open a screen with the full report viewer control
+Example 1: screen with the full report viewer control
 Example 2: generate report with custom UI
 
+ClientSideReportingMvc - ASP.NET MVC app
+Example 1: (report viewer control doesnt work in MVC)
+Example 2: generate report with custom UI
 
 Future Plans:
-Example using ASP.NET MVC
 Example using WPF
 
 Links:
