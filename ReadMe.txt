@@ -10,8 +10,12 @@ ClientSideReporting - Windows Forms app
 Example 1: open a screen with the full report viewer control
 Example 2: generate report with custom UI
 
+ClientSideReportingWeb - ASP.NET Webforms app
+Example 1: open a screen with the full report viewer control
+Example 2: generate report with custom UI
+
+
 Future Plans:
-Example using ASP.NET WebForms
 Example using ASP.NET MVC
 Example using WPF
 
