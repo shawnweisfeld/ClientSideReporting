@@ -21,8 +21,18 @@ Example 2: generate report with custom UI
 To host in WPF you host the ReportViewer control inside a WindowsFormsHost control. 
 http://msdn.microsoft.com/en-us/library/hh273267.aspx
 
+Nested objects:
+Nested classes will need to be flattened to a simple POCO that contains only simple types for reporting.
+
 Report Viewer MSDN:
 http://msdn.microsoft.com/en-us/library/ms251671.aspx
 
 Report Viewer Samples:
 http://msdn.microsoft.com/en-us/library/ms251686.aspx
+
+Got Reportviewer?
+http://www.gotreportviewer.com/
+(Lots of good examples but for 2010)
+
+
+
