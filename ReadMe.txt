@@ -1,4 +1,6 @@
-The goal of this project is to provide some examples of the C# code required to use SQL Server Reporting Services without a report server.
+The goal of this project is to provide some examples of the C# code required to use 
+SQL Server Reporting Services without a report server.
+
 The report is NOT fancy as showing the features of SSRS is not the goal of this project. 
 
 Examples use data provided by the "DataAccess" library
