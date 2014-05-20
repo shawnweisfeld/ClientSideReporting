@@ -1,5 +1,6 @@
 The goal of this project is to provide some examples of the C# code required to use 
-SQL Server Reporting Services without a report server.
+Microsoft Reports (aka. SQL Server Reporting Services: Local) without a report server.
+http://msdn.microsoft.com/en-us/library/bb885185.aspx
 
 The report is NOT fancy as showing the features of SSRS is not the goal of this project. 
 
