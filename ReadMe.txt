@@ -18,10 +18,8 @@ ClientSideReportingMvc - ASP.NET MVC app
 Example 1: (report viewer control doesnt work in MVC)
 Example 2: generate report with custom UI
 
-Future Plans:
-Example using WPF
-
-Links:
+To host in WPF you host the ReportViewer control inside a WindowsFormsHost control. 
+http://msdn.microsoft.com/en-us/library/hh273267.aspx
 
 Report Viewer MSDN:
 http://msdn.microsoft.com/en-us/library/ms251671.aspx
